@@ -16,8 +16,6 @@ http(s)://<ip>:<port>
 
 makefile
 Copy code
-**Example:**  
-https://airflow.example.com
 
 yaml
 Copy code
